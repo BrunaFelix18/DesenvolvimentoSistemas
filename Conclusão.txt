@@ -1,0 +1,8 @@
+mkdir- Cria um diretório.
+cd- Muda para um diretório especificado.
+dir- Lista arquivos e pastas no diretório atual.
+git init- Inicializa um repositório Git.
+git remote add origem-  Conecta um repositório remoto chamado "origin".
+git add "arquivo"- Adiciona mudanças para o próximo commit
+git commit -m - Realiza um commit com uma mensagem.
+git push -u origem master- Envia mudanças do branch local "master" para o remoto "origin" e define o servidor.
